@@ -1,5 +1,3 @@
-Group Members: Youssef Yammine (202403), Jean-Paul Mansour (201869), Anthony Zeiter (200195)
-
 In the folder search examples, there are file examples with content like countries and fruits.
 There is also a folder containing a large number of files that all start with 'This is file X'.
 They can be searched for to test the scrollbars.
